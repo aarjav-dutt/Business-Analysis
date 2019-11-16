@@ -1,6 +1,6 @@
 # Business-Analysis-and-Information-Engineering
 or 
-## Digital Product Management
+Digital Product Management
 
 
 Product managers can have a tremendous impact on a technology company's performance. PMs define a product's functional requirements and then lead a team responsible for its development, launch, and ongoing improvement. 
